@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="f8b93702-c4d5-46c7-92a2-98a97c88f5a7" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/../opdracht-1/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../opdracht-1/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opdracht-1/selectors.css" beforeDir="false" afterPath="$PROJECT_DIR$/../opdracht-1/selectors.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../opdracht-1/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/../opdracht-1/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/flexbox.css" beforeDir="false" afterPath="$PROJECT_DIR$/flexbox.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles.css" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1lglSwf4sbeXCkkqkU36BZsCU8s" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="HTML" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../HTML CSS" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f8b93702-c4d5-46c7-92a2-98a97c88f5a7" name="Default Changelist" comment="" />
+      <created>1608026618806</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1608026618806</updated>
+      <workItem from="1608026619991" duration="19666000" />
+      <workItem from="1608114883189" duration="693000" />
+      <workItem from="1608115658663" duration="3297000" />
+      <workItem from="1608201574747" duration="633000" />
+      <workItem from="1608210469627" duration="3292000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-1060" y="74" key="FileChooserDialogImpl" timestamp="1608117693228">
+      <screen x="-1680" y="-186" width="1680" height="1010" />
+    </state>
+    <state x="-1060" y="74" key="FileChooserDialogImpl/0.0.1366.728/-1680.-186.1680.1010@-1680.-186.1680.1010" timestamp="1608117693228" />
+    <state x="504" y="187" key="FileChooserDialogImpl/0.0.1366.728/-1680.-186.1680.1010@0.0.1366.728" timestamp="1608060126333" />
+    <state x="-1680" y="-186" width="1261" height="686" key="dock-window-1" timestamp="1608057498357">
+      <screen x="-1680" y="-186" width="1680" height="1010" />
+    </state>
+    <state x="-1680" y="-186" width="1261" height="686" key="dock-window-1/0.0.1366.728/-1680.-186.1680.1010@-1680.-186.1680.1010" timestamp="1608057498357" />
+    <state x="-1177" y="31" width="672" height="678" key="search.everywhere.popup" timestamp="1608057633685">
+      <screen x="-1680" y="-186" width="1680" height="1010" />
+    </state>
+    <state x="-1177" y="31" width="672" height="678" key="search.everywhere.popup/0.0.1366.728/-1680.-186.1680.1010@-1680.-186.1680.1010" timestamp="1608057633685" />
+  </component>
+</project>

@@ -1,3 +1,102 @@
 /* ======================================================
    OEFENEN MET FLEXBOX
 ========================================================= */
+
+/*Opdracht 2.1:*/
+
+
+.one {
+            background-color: mediumpurple;
+            display:flex;
+            flex-direction: column;
+            justify-content: flex-end;
+
+
+
+
+
+}
+
+
+
+
+
+
+/*Opdracht 2.2:*/
+div.two{
+             display:flex;
+             flex-direction: row;
+    justify-content: space-between  ;
+
+
+
+}
+/*Opdracht 2.3:*/
+
+.three{
+    display: flex;
+    flex-direction: row;
+    border: 1px solid black;
+    background-color: white;
+
+
+}
+
+#edhub{
+    display: flex;
+    flex-direction: row;
+    justify-content: flex-end;
+    flex-basis: 450px;
+    margin-top: 20px;
+    margin-bottom: 16px;
+    margin-left: 16px;
+
+}
+
+.threeleft
+{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    flex-basis: 300px;
+    margin-top: 20px;
+    margin-bottom: 16px;
+
+}
+
+ul{
+
+    list-style-type: none;
+}
+
+
+/*Opdracht 2.4:*/
+
+.login-container{
+    display: flex;
+    justify-content: center;
+}
+
+
+
+form{
+    display: flex;}
+
+
+
+
+/*Opdracht 2.5:*/
+
+.five-container{
+   display: flex;
+
+}
+
+.flexbox-item {
+    margin: 10px;
+    padding: 10px;
+    border:2px solid red;
+    background-color: grey;
+    justify-items:center;
+
+}

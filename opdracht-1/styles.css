@@ -1,6 +1,6 @@
 /* --------- VERANDER NIETS IN DIT BESTAND ----------*/
 
-@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;500&display=swap');
+
 
 body {
     font-family: Arial, Tahoma, sans-serif;
@@ -10,6 +10,7 @@ body {
 
 .wrapper {
     max-width: 800px;
+
 }
 
 nav ul {
@@ -38,3 +39,4 @@ main > div {
 .places-to-visit {
     width: 350px;
 }
+
